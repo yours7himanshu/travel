@@ -18,12 +18,12 @@ html::-webkit-scrollbar-thumb {
 body {
   margin: 0;
   padding: 0;
-  background-color: #27272a;
+  /* background-color: #27272a; */
   box-sizing: border-box;
   background-image: url("./images/Decore.png");
   background-repeat: no-repeat;
   background-position: top 0 right 0;
-  color: white;
+   color: #1b2f5a;
 }
 
 h1,
